@@ -1,6 +1,6 @@
 # RunToHer 🏃‍♂️💨
 
-Unity 2D ile geliştirilmiş bir endless runner oyunu. Oyuncu, kız karaktere yetişmeye çalışırken arkasından gelen botlardan kaçmalı ve coin toplamalıdır.
+Unity 2D ile geliştirilmiş bir endless runner oyunu. Oyuncu, kız karaktere yetişmeye çalışırken arkasından gelen botlardan kaçmalı ve coin toplayarak hızını arttırmalı ve kıza yetişme şansını yakalamalıdır
 
 ## 🎮 Oyun Hakkında
 
